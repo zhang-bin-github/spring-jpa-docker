@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("这是第一个上传至github的项目 omg！");
+        System.out.println("这是第一个上传至github的项目 omg！");
         SpringApplication.run(DemoApplication.class, args);
     }
 
