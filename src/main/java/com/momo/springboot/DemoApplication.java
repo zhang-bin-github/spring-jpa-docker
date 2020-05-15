@@ -11,6 +11,7 @@ public class DemoApplication {
         System.out.println("这是第一个上传至github的项目 omg！");
         System.out.println("这是第一个上传至github的项目 omg！22");
         System.out.println("这是第一个上传至github的项目 omg！33");
+        System.out.println("------------------------------");
         SpringApplication.run(DemoApplication.class, args);
     }
 
